@@ -6,7 +6,7 @@ variable "project_id" {
 variable "region" {
   description = "GCP Region"
   type        = string
-  default     = "europe-north1"
+  default     = "europe-west1-b"
 }
 
 variable "student_id" {
