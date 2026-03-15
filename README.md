@@ -28,5 +28,5 @@ terraform apply
 
 ##### Screenshot på Google Cloud VM status:
 <p align="center">
-  <img src="images/googlecloudvm.png" width="600" title="Alt-text">
+  <img src="images/googlecloudvm1.png" width="600" title="Alt-text">
 </p>
