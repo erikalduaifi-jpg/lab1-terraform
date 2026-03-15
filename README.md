@@ -26,7 +26,7 @@ terraform apply
   <img src="images/googlecloudvm1.png" width="600" title="Alt-text">
 </p>
 
-##### Screenshot på Google Cloud VM status:
+##### Screenshot på Google Cloud GCP Console:
 <p align="center">
   <img src="images/googlecloudvm.png" width="600" title="Alt-text">
 </p>
